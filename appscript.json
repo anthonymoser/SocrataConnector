@@ -1,0 +1,15 @@
+{
+    "timeZone": "America/Chicago",
+    "dependencies": {
+    },
+    "dataStudio": {
+      "name": "Socrata Data Set Connector",
+      "logoUrl": "https://raw.githubusercontent.com/anthonymoser/SocrataConnector/main/public_data_tools.png",
+      "company": "Public Data Tools",
+      "companyUrl": "https://developers.google.com/datastudio/",
+      "addonUrl": "https://github.com/google/datastudio/tree/master/community-connectors/npm-downloads",
+      "supportUrl": "https://github.com/google/datastudio/issues",
+      "description": "Connect to Socrata data sets",
+      "sources": []
+    }
+  }
